@@ -12,7 +12,7 @@
   <img align="center" alt="sarauj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sarauj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sarauj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="sarauj-pic" height="150" style="border-radius:50px;" src="https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/s150x150/234632449_152157707051809_6976348608048905213_n.jpg?_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=C5Ka7-kcqqYAX_IoOUu&tn=-YXHiQ4wINTV2lwT&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT9HeeVZ93vLh9zk6FvOBUWvWWhAVrW1ynBoaRR08hV1cg&oe=61C54B6B&_nc_sid=9a90d6">
+  <img align="right" alt="sarauj-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
